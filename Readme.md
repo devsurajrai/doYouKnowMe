@@ -1,4 +1,4 @@
-# Hello Everyone
+# doYouKnowMe
 
 This CLI App is a basic implimemtaion of programming using Javascript. It has been made while the live session Lesson 01,Level Zero by Tanay Sir. This is just an introduction to the programming. It consists of the questions about myself which my friends would have to answer and on the basis of points scored it will be judged how well he/she know me.
 
