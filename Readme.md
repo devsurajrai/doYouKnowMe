@@ -25,5 +25,8 @@ This CLI App is written in Javascript. It consists of the questions about myself
 
         5. question: "Which is my favourite chocolate?",
            answer: "Dark Chocolate"
-    
+
+## Screenshot 
+
+![CLI-app-in-action](./media/doyouknowme.png)
 
