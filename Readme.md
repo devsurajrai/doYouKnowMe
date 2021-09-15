@@ -1,6 +1,6 @@
 # Do You Know Me
 
-This CLI App is a basic implimemtaion of programming using Javascript. It has been made while the live session Lesson 01,Level Zero by Tanay Sir. This is just an introduction to the programming. It consists of the questions about myself which my friends would have to answer and on the basis of points scored it will be judged how well he/she know me.
+This CLI App is written in Javascript. It consists of the questions about myself which my friends would have to answer and on the basis of points scored it will be judged how well he/she know me.
 
 ## [Click to play](https://replit.com/@SurajRai4/doYouKnowMe?embed=1&output=1#index.js)
 
